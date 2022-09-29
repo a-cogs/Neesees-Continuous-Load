@@ -1,0 +1,14 @@
+.da-load {
+    opacity: 1;
+    width: initial;
+    height: 65px;
+}
+
+div.paginate,
+.da-collection-title{
+    display: none !important;
+}
+
+.product-list[class*="prod-page"] .product-info__caption {
+    display: block;
+} 
